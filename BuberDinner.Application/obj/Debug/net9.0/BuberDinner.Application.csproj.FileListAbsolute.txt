@@ -1,0 +1,11 @@
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\bin\Debug\net9.0\BuberDinner.Application.deps.json
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\bin\Debug\net9.0\BuberDinner.Application.dll
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\bin\Debug\net9.0\BuberDinner.Application.pdb
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.dll
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\refint\BuberDinner.Application.dll
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\BuberDinner.Application.pdb
+C:\Projetos\CleanArchitectureDDD\BuberDinner\BuberDinner.Application\obj\Debug\net9.0\ref\BuberDinner.Application.dll
