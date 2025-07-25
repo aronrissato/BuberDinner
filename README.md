@@ -29,3 +29,4 @@ dotnet add BuberDinner.Api reference BuberDinner.Contracts BuberDinner.Applicati
 dotnet add BuberDinner.Infrastructure reference BuberDinner.Application
 dotnet add BuberDinner.Application reference BuberDinner.Domain
 dotnet add BuberDinner.Api reference BuberDinner.Infrastructure
+
