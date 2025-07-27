@@ -7,7 +7,11 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\BuberDinner.Application\BuberDinner.Application.csproj"/>
+		<ProjectReference Include="..\BuberDinner.Application\BuberDinner.Application.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.13.0" />
 	</ItemGroup>
 
 </Project>
